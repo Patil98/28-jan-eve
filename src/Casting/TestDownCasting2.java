@@ -1,7 +1,6 @@
 package Casting;
 
 public class TestDownCasting2
-
 {
 public static void main(String[] args)
 

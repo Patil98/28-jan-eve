@@ -1,7 +1,6 @@
 package Logical_Programe;
 
 public class palindrome_number 
-
 {
 	public static void main(String[] args) 
 	{
@@ -17,7 +16,6 @@ public class palindrome_number
 			temp=temp/10;
 			
 		}
-		
 		if(no==rev)
 		{
 			System.out.println(no +" is palindrome number");

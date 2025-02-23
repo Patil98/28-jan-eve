@@ -1,10 +1,8 @@
 package Abstract_Concrete_class;
 
 public class Test_exa_3and4 
-
 {
 	public static void main(String[] args) 
-
 	{
 		Example4.m5();
 		Example4.m6();

@@ -1,10 +1,8 @@
 package inheritance;
 
 public class Hirarchical_Inheritance 
-
 {
 public static void main(String[] args) 
-
 {
 	System.out.println("features of son 1");
 	son1 s1 = new son1();

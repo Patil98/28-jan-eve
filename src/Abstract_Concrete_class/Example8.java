@@ -2,8 +2,6 @@ package Abstract_Concrete_class;
 
 // abstract class
 abstract public class Example8 
-
-
 {
 	
 	public void s1()

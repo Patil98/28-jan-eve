@@ -6,7 +6,6 @@ public class Leap_Year
 
 {
 	public static void main(String[] args) 
-	
 	{
 		int year=2024;
 		//System.out.println("enter year");

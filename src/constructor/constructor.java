@@ -26,9 +26,6 @@ public class constructor
 		constructor c2=new constructor(10);
 		constructor c3=new constructor(10,20);
 		
-		
-		
-		
 	}
 
 }

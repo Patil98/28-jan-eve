@@ -1,9 +1,7 @@
 package bhushan;
 
 public class String__word_Count 
-
 {
-	
 	public static void main(String[] args) 
 	{
 		

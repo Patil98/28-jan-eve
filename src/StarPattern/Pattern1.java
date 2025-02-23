@@ -1,12 +1,11 @@
 package StarPattern;
 
 public class Pattern1
-                         // MEANING of PRINTLN and PRINT  word
+                         //MEANING of PRINTLN and PRINT  word
 {
 	public static void main(String[] args) 
 	{
 		
-	
 	//*
 	//*
 	//*

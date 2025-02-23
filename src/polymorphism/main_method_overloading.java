@@ -1,8 +1,6 @@
 package polymorphism;
 
 public class main_method_overloading 
-
-
 {
 	public static void main(int a ,int b)
 	{

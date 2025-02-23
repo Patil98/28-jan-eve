@@ -7,7 +7,6 @@ public static void main(String[] args)
 {
 	int ar[]=new int[4];
 	
-	
     ar[0]=30;
     ar[1]=20;
     ar[2]=40;

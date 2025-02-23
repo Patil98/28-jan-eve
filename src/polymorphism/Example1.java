@@ -1,7 +1,6 @@
 package polymorphism;
 
 public class Example1 
-
 {
       //example of method overloading (Example 1 and 2)
 	

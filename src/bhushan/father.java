@@ -1,7 +1,6 @@
 package bhushan;
 
 public class father 
-
 {
 
 	public void farm()

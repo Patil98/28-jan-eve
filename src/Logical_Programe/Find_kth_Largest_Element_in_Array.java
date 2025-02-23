@@ -5,7 +5,7 @@ public class Find_kth_Largest_Element_in_Array
 	
 	public static void main(String[] args)
 	{
-		int ar[]= {10,50,20,40,30,80,90};
+		int ar[]= {10,50,20,40,30,80,90,70};
 		int k=4;
 		
 		for(int i=0; i<ar.length; i++)

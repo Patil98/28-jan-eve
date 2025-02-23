@@ -2,8 +2,6 @@ package bhushan;
          // Super class
 
 public class ConstructorChaining 
-
-
 {
 	 ConstructorChaining()
 	 {

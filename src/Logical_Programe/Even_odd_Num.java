@@ -1,10 +1,8 @@
 package Logical_Programe;
 
 public class Even_odd_Num
-
 {
 	public static void main(String[] args) 
-	
 	{
 		int num=58;
 		

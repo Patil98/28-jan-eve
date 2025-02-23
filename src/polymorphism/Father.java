@@ -1,7 +1,7 @@
 package polymorphism;
 
 public class Father  //SUPER CLASS
-   // example of method overriding
+// example of method overriding
 {
 	public void money()
 	{
@@ -11,8 +11,8 @@ public class Father  //SUPER CLASS
 	{
 		System.out.println("BMW");
 	}
-  public void home()
-  {
-	  System.out.println("2 bhk");
-  }
+	public void home()
+	{
+		System.out.println("2 bhk");
+	}
 }

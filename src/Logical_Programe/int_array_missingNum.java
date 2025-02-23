@@ -7,7 +7,7 @@ public class int_array_missingNum
 	{
 		int ar[]= {1,2,3,4,5,7,8,6,10};
 		
-		int sum=10*11/2; //n*(n+1)/2    n=last num
+		int sum=10*11/2;    //n*(n+1)/2    n=last num
 		
 		int actualsum=0;
 		

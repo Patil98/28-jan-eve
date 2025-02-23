@@ -1,7 +1,6 @@
 package inheritance;
 
 public class Father 
-
 {
 	public void car()
 	{

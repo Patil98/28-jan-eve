@@ -2,7 +2,6 @@ package Logical_Programe;
 
 public class Find_Maximum_values_in_int_Array_Without_SortMethod
 {
-
 	public static void main(String[] args) 
 	{
 		int ar[]= {50,6,10,40,15,19,20};

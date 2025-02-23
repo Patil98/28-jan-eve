@@ -1,7 +1,6 @@
 package Generalization;
 
 public interface Animal 
-
 {
 	void colour();
 	

@@ -1,7 +1,6 @@
 package Generalization;
 
 public class VI implements SimCard
-
 {
 	public void sms()
 	{

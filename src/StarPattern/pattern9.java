@@ -40,18 +40,7 @@ public class pattern9
 				star=star-2;
 				space++;
 			}
-		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		}	
 		
 	}
 

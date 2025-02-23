@@ -1,7 +1,6 @@
 package Logical_Programe;
 
 public class Array_Sorting_Without_sortMethod
-
 {
 	public static void main(String[] args)
 	{

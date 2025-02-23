@@ -10,9 +10,10 @@ public class Count_the_sum_of_number_in_a_string
 		
 		for(int i=0; i<s.length(); i++)
 		{
-			if(Character.isDigit(s.charAt(i)))
+			char ch = s.charAt(i);
+			if(Character.isDigit(ch))
 			{
-			 sum=sum+Character.getNumericValue(s.charAt(i));
+			 sum=sum+Character.getNumericValue(ch);
 			}
 		}
         System.out.println("Sum of all the digit present in String : "+sum);

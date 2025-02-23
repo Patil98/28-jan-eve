@@ -1,11 +1,8 @@
 package bhushan;
 
 public class TestDowncasting 
-
-
 {
 	public static void main(String[] args)
-	
 	{
 		father p=new son();
 		son s1=(son)p;

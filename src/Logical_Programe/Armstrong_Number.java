@@ -1,38 +1,28 @@
 package Logical_Programe;
 
-import java.util.Scanner;
-
-public class Armstrong_Number 
+public class Armstrong_Number
 {
-	
 	public static void main(String[] args) 
 	{
-		//153,370,371,1634,
-		/*Scanner s=new Scanner(System.in);
-		System.out.println("enter any no");*/
-		int no= 153;         //s.nextInt();
-		int org=no;
-		int arm=0;                    
-	    int temp;
-		
-		while(no!=0)
+		int num=371;
+		int temp=0;
+		int rem;
+
+		for(int i=num; i>0; i=i/10)
 		{
-			temp=no%10;
-			arm=(arm)+(temp*temp*temp);
-		     //temp=Math.pow(temp, 4);
-		     // arm=arm+temp;
-			no=no/10;		
+			rem=i%10;
+			temp=temp+(rem*rem*rem);	
 		}
-		if(org==arm)
+		if(num==temp)
 		{
-			System.out.println("armstrong no");
+			System.out.println("no is armstrong number");
 		}
 		else
 		{
-			System.out.println("not armstrong no");
+			System.out.println("no is not armstrong number");
 		}
-	}
 
 	}
 
 
+}

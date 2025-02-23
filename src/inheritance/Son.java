@@ -1,8 +1,6 @@
 package inheritance;
 
 public class Son extends Father
-
-
 {
 	public void bike()
 	{

@@ -8,7 +8,7 @@ public class example10_sumOfTwoMatrices
 	public static void main(String[] args)
 	{
 		int a[][]={{1,3,4},{3,4,5}};
-		int b[][]= {{1,3,4},{3,4,5}};
+		int b[][]={{1,3,4},{3,4,5}};
 		
 		int c[][]=new int[2][3];
 		

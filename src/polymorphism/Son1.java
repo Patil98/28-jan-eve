@@ -1,6 +1,6 @@
 package polymorphism;
 
-public class Son1 extends Father           // // example of method overriding
+public class Son1 extends Father       // example of method overriding
 // SUB CLASS
 {
 	public void laptop()

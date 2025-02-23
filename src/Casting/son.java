@@ -1,8 +1,7 @@
 package Casting;
 
- // sub class
+// sub class
 public class son extends Father
-
 {
 	public void home()
 	{
@@ -12,13 +11,13 @@ public class son extends Father
 	{
 		System.out.println("tata");            // override
 	}
-	 public void money()
-	 {
-		 System.out.println("5 lakh ");                    // override
-	 }
+	public void money()
+	{
+		System.out.println("5 lakh ");                    // override
+	}
 
-	 public void bike()
-	 {
-		 System.out.println("ktm");               //own property
-	 }
+	public void bike()
+	{
+		System.out.println("ktm");               //own property
+	}
 }

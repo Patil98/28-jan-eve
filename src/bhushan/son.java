@@ -2,8 +2,6 @@ package bhushan;
 
 public class son extends father
 {
-	
-
 	public void farm()
 	{
 		System.out.println("5 acre");

@@ -1,10 +1,8 @@
 package Generalization;
 
 public class testGeneralization_animal 
-
 {
-	public static void main(String[] args) 
-	
+	public static void main(String[] args) 	
 	{
 		System.out.println("Features of cat");
 		cat c=new cat();
@@ -18,9 +16,7 @@ public class testGeneralization_animal
 		d.colour();
 		d.weight();
 		d.size();
-		d.quality();
-		
-		
+		d.quality();		
 	}
 
 }

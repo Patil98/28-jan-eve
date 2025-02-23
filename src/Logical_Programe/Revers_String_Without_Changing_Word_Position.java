@@ -15,9 +15,7 @@ public class Revers_String_Without_Changing_Word_Position
 				System.out.print(ar[i].charAt(j));
 			}
 			System.out.print(" ");
-		}
-		
-		
+		}	
 	}
 
 }

@@ -1,6 +1,8 @@
 package AccessSpecifiers;
 
 //public class Example2 
+
+	
                                       // private access specifier
 //{
 //	public static void main(String[] args)

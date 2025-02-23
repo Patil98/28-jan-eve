@@ -1,10 +1,8 @@
 package Logical_Programe;
 
-import java.util.Scanner;
 
 public class Prime_No 
 {
-	
 	public static void main(String[] args) 
 	{
 		//Scanner s=new Scanner(System.in);
@@ -22,11 +20,11 @@ public class Prime_No
 		}
 		if(temp==0)
 		{
-			System.out.println(no + ": is prime no");
+			System.out.println(no+" : is prime no");
 		}
 		else
 		{
-			System.out.println(no + ": is not prime no");
+			System.out.println(no+" : is not prime no");
 		}
 	}
 

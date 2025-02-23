@@ -1,7 +1,6 @@
 package Abstract_Concrete_class;
 
 public class test_exa_10and11
-
 {
 public static void main(String[] args)
 {
