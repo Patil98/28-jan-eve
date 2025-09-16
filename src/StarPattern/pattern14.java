@@ -2,7 +2,6 @@ package StarPattern;
 
 public class pattern14 
 {
-
 	public static void main(String[] args) 
 	{
 		int k=1;
@@ -13,9 +12,6 @@ public class pattern14
 				System.out.print(k++ +" ");		
 			}
 			System.out.println();
-
 		}
-
 	}
-
 }

@@ -22,7 +22,7 @@ public class LCM_For_2_Num
 		}
 		System.out.println("lcm is "+i);
 
-
+		sc.close();
 
 	}
 

@@ -3,14 +3,13 @@ package Logical_Programe;
 import java.util.HashMap;
 import java.util.Map;
 
-public class charCount_UsingHashMap {
+public class Occu_ofCharCount_UsingHashMap {
 
 	public static void main(String[] args) {
 		
 		String ch="aabbbccccc";
 		
 		HashMap<Character, Integer> hm = new HashMap<>();
-		
 		
 		for(char cha:ch.toCharArray())
 		{

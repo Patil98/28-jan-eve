@@ -12,7 +12,7 @@ public class Fibonacci_Series
 		
 		System.out.print(a+" "+b);
 		
-		for(int i=0; i<15; i++)
+		for(int i=0; i<10; i++)
 		{
 			c=a+b;  
 			System.out.print(" "+c);

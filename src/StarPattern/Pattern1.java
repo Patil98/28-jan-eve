@@ -1,8 +1,7 @@
 package StarPattern;
 
-public class Pattern1
-                         //MEANING of PRINTLN and PRINT  word
-{
+public class Pattern1                       
+{   
 	public static void main(String[] args) 
 	{
 		

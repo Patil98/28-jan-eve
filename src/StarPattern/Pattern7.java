@@ -3,7 +3,6 @@ package StarPattern;
 public class Pattern7 
 { 
 	public static void main(String[] args)
-	
 	{
 		//*
 	    //***
@@ -21,7 +20,7 @@ public class Pattern7
 			}
 			System.out.println();
 			
-			star=star+2;
+			star+=2;
 		}
 		
 	}

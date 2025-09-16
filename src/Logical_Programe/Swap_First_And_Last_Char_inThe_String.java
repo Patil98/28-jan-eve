@@ -1,21 +1,25 @@
 package Logical_Programe;
 
-public class Swap_First_And_Last_Char_inThe_String {
-	public static void main(String[] args) {
-		String str = "bhushan Patil";
+public class Swap_First_And_Last_Char_inThe_String 
+{
+	public static void main(String[] args)
+	{
+		String s="java is object oriented";	
+		char[] ar = s.toCharArray();
 
-		char[] sr = str.toCharArray();
+		for(int i=0; i<ar.length; i++)
+		{
+			int k=i;
 
-		for(int i = 0; i <= sr.length - 1; i++) {
-			int k = i;
-			while(i < sr.length && sr[i] != ' ') {
+			while(i<ar.length && ar[i]!=' ')
+			{
 				i++;
 			}
-			char temp = sr[k];
-			sr[k] = sr[i - 1];
-			sr[i - 1] = temp;
+			char temp=ar[k];  
+			ar[k]=ar[i-1];
+			ar[i-1]=temp;
 		}
-		System.out.println(sr);
-	}
+		System.out.println(ar);
 
+	}
 }

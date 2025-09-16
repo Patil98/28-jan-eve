@@ -6,15 +6,15 @@ public class PrintPrimeNumFrom1To100
 	{
 		for(int i=1; i<=20; i++)
 		{   
-			int temp=0;			
+			int count=0;			
 			for(int j=2; j<i; j++)
 			{
 				if(i%j==0)
 				{
-					temp++;
+					count++;
 				}
 			}
-			if(temp==0)
+			if(count==0 && i>1)
 			{
 				System.out.print(i+" ");
 			}

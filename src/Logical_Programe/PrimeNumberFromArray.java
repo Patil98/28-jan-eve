@@ -18,7 +18,7 @@ public class PrimeNumberFromArray
 					count++;
 				}
 			}
-			if(count==0)
+			if(count==0 && i>=1)
 			{
 				System.out.print(ar[i]+" ");
 

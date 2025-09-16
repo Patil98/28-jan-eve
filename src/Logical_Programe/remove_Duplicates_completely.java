@@ -1,10 +1,11 @@
 package Logical_Programe;
 
-public class remove_Duplicates 
+//completely remove the duplicates 
+public class remove_Duplicates_completely
 {	
 	public static void main(String[] args) 
 	{		
-		String s="bhushanpatil";
+		String s="bhushan patil";
 		String result="";
 		
 		for(int i=0; i<s.length(); i++)

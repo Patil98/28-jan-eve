@@ -4,7 +4,7 @@ public class add_the_integers_available_in_the_String
 {
 	public static void main(String[] args)
 	{
-		String s="10value8with20value";
+		String s="10value8with20value40";
 		String temp="0";
 		int sum=0;
 
@@ -18,10 +18,12 @@ public class add_the_integers_available_in_the_String
 			}
 			else
 			{
-				sum=sum+Integer.parseInt(temp);
+				sum+=Integer.parseInt(temp);
 				temp="0";
 			}
+
 		}
+		sum+=Integer.parseInt(temp);
 		System.out.println(sum);
 
 	}

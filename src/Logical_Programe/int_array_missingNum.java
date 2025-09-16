@@ -13,7 +13,7 @@ public class int_array_missingNum
 		
 		for(int i=0; i<ar.length; i++)
 		{
-			actualsum=actualsum+ar[i];  	
+			actualsum+=ar[i];  	
 		}
 
 		System.out.println("missing num is : " +(sum-actualsum));
