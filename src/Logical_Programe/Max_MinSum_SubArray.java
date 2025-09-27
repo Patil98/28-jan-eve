@@ -27,7 +27,7 @@ public class Max_MinSum_SubArray {
 		for(int j=k; j<n; j++)
 		{
 			window_sum+=ar[j]-ar[j-k];
-			max_sum=Math.min(max_sum,window_sum);
+			max_sum=Math.max(max_sum,window_sum);
 		}
 		
 		System.out.println("max sum of subarray:"+max_sum);

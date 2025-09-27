@@ -23,7 +23,7 @@ public class NumberZeroSeparator
 		}
 
 		// Display the separated numbers and zeros
-		System.out.println("NumbersAndZeros: "+numbers+zeros);
+		System.out.println(numbers+zeros);
 
 	}
 }
